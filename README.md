@@ -11,7 +11,8 @@
 ###
 
 Tailwindcss: [https://tailwindcss.com](https://tailwindcss.com/);<br>
-React JS: [https://react.dev](https://react.dev/).<br>
+React JS: [https://react.dev](https://react.dev/);<br>
+API: [https://mymemory.translated.api](https://mymemory.translated.net/doc/spec.php).
 
 ###
 
