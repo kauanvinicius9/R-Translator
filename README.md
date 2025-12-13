@@ -2,11 +2,11 @@
 
 ###
 
-✅ This project was developed **following** the **YouTube** guidelines and the **official React documentation**.
+✅ This project was developed following tutorials from YouTube and the official React documentation.
 
 ###
 
-**<h6>Links</h6>**
+**<h3>Links</h3>**
 
 ###
 
@@ -15,7 +15,7 @@ React JS: [https://react.dev](https://react.dev/).<br>
 
 ###
 
-**<h6>Reference | CR</h6>**
+**<h3>Reference | CR</h3>**
 
 ###
 
@@ -23,7 +23,7 @@ YouTube: [Canal DevClub](https://youtu.be/PIDu3fePvM8?si=Ih6ovggAxZnLytP3).
 
 ###
 
-**<h6>React Official Documentation</h6>**
+**<h3>Official Documentation</h3>**
 
 ###
 
