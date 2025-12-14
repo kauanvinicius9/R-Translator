@@ -2,6 +2,38 @@
 
 ###
 
+**React Translator** is a **web application** developed with `React` and `Tailwind CSS` that allows for fast and intuitive translation of text **between** different languages. The project consumes a **public** translation `API`, making requests asynchronously and displaying results in real time, with **visual loading feedback** and **error handling**. The interface was designed to be **simple**, **clean**, and **responsive**, using `Tailwind CSS` to ensure visual consistency and development speed.
+
+###
+
+**<h3>Functionalities</h3>**
+
+###
+
+- Translation of texts in multiple languages;
+- Source and target language selection;
+- Button for switching languages;
+- Visual feedback while charging.;
+- Request error handling;
+- Responsive and simple interface.
+
+###
+
+**<h3>Tecnologies</h3>**
+
+###
+
+- `React`;
+- `Tailwind`;
+- `Vite`;
+- `Visual Studio Code`;
+- `MyMemory`;
+- `JavaScript ES6+`;
+- `Git`;
+- `GitHub`.
+
+---
+
 ✅ This project was developed following tutorials from YouTube and the official React documentation.
 
 ###
