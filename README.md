@@ -45,6 +45,13 @@ Vite JS: [https://vitejs.dev](https://vitejs.dev).
 npm install -D tailwindcss postcss autoprefixer
 ```
 
+###
+```powershell
+pnpm add -D @tailwindcss/postcss
+```
+
+###
+
 <h6>Node Modules</h6>
 
 ###
@@ -100,3 +107,34 @@ export default {
 ```
 
 ###
+
+**<h6>pnpm code</h6>**
+
+###
+```yaml
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      react:
+        specifier: ^19.2.0
+        version: 19.2.3
+      react-dom:
+        specifier: ^19.2.0
+        version: 19.2.3(react@19.2.3)
+    devDependencies:
+      '@eslint/js':
+        specifier: ^9.39.1
+        version: 9.39.2
+      '@types/react':
+        specifier: ^19.2.5
+        version: 19.2.7
+
+...Continue +1700
+```
