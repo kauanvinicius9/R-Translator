@@ -51,3 +51,37 @@ npm install -D tailwindcss postcss autoprefixer
 ```powershell
 npm i || npm install
 ```
+
+---
+
+**<h6>Tailwind code</h6>**
+
+###
+```t
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{js,jsx,ts,tsx}",
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+```
+
+###
+
+**<h6>Postcss code</h6>**
+
+###
+```t
+export default {
+  plugins: {
+    tailwindcss: {},
+    autoprefixer: {},
+  },
+}
+```
+
+###
