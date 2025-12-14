@@ -52,6 +52,21 @@ npm install -D tailwindcss postcss autoprefixer
 npm i || npm install
 ```
 
+###
+```powershell
+npm install -g pnpm
+```
+
+###
+```powershell
+pnpm install
+```
+
+###
+```powershell
+pnpm dev
+```
+
 ---
 
 **<h6>Tailwind code</h6>**
