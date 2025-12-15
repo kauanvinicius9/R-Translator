@@ -48,6 +48,7 @@ function App() {
 
     try{
 
+    // Site do tradutor, é quem permite o sistema traduzir sem precisar de códigos complexos
     const response = await  fetch(`https://api.mymemory.translated.net/get?q=${encodeURIComponent(sourceText)}&langpair=${sourceLang}|${targetLang}`)
 
     if(!response.ok){
@@ -151,6 +152,7 @@ function App() {
               <div className="absolute inset-0 flex items-center justify-center">
 
                 {/* Condições: Se o isLoading for True, exibe o efeito de carregamento, senão, a mensagem */}
+                {/* ? - IF, : - ELSE */}
         
                     <div className="animate-spin rounded-full h-8 w-8 border-t-2 border-blue-500"></div>
                   </div>
