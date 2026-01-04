@@ -117,8 +117,3 @@ export default {
   },
 }
 ```
-
----
-
-<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/c8b516ed-5e31-4b6c-941b-6735a9036932" />
-
